@@ -1347,7 +1347,7 @@ exitbutton2=Button(my,text="NO",bg="white",fg="black",height=1,width=5,font=("He
 
 
 my.mainloop()
-
+  - by ayesha
 
 
 
